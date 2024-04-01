@@ -1,6 +1,6 @@
 import React from "react";
 
-const BeBestYou = () => {
+const BestYou = () => {
   return (
     <section className="mt-[10rem] mb-[10rem] grid grid-cols-3 px-20 gap-8">
       <div className="text-3xl font-bold p-4">Be Best You with EQ</div>
@@ -16,4 +16,4 @@ const BeBestYou = () => {
   );
 };
 
-export default BeBestYou;
+export default BestYou;
